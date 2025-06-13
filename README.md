@@ -11,5 +11,5 @@ This project implements and tests a parameterized synchronous FIFO (First-In Fir
   - VCD waveform dump for analysis
  
 ## Output
-RTL Schematic:
-Output Waveform: 
+RTL Schematic: https://github.com/ananyav-26/Synchronous-FIFO/blob/main/images/fifo_rtl.png
+Output Waveform: https://github.com/ananyav-26/Synchronous-FIFO/blob/main/images/fifo_waveform.png
