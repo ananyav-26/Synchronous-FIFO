@@ -1,5 +1,5 @@
 // ---------------------------------------------------------------------------
-// Module      : Synchronous FIFO
+// Module      : Testbench for Synchronous FIFO
 // Author      : Ananya Vaidya
 // ---------------------------------------------------------------------------
 module sync_fifo_TB;
